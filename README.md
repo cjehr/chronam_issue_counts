@@ -5,7 +5,7 @@
 
 <h1>Output</h1>
 <b>state_issues_year_2019_DC.py or other files with state/territory abbreviations</b>
-<p>The output from this script is one .csv file named ‘District of Columbia_total.csv’. Each row in the .csv contains the state name, year, and number of issues available in Chronicling America.</p>
+<p>The output from this script is one .csv file named "District of Columbia_total.csv". Each row in the .csv contains the state name, year, and number of issues available in Chronicling America.</p>
 <b>state_issues_year_2019_NOSTATE</b>
 <p>Use find and replace for "STATE_NAME" with the state or territory name you want the script run for. The output from this script is one .csv file named ‘STATE_NAME_total.csv’. Each row in the .csv contains the state name, year, and number of issues available in Chronicling America.</p>
 
