@@ -15,7 +15,6 @@
 <p>Save the state_issues_year_2019_ followed by the state abbreviation file to a folder where you want the results file saved.  Using the command line interface, navigate to the folder.</p>
 
 <p>Run the script by typing: python state_issues_year_2019_ followed by the state abbreviation</p>
-</br>
 <p>Ex: python state_issues_year_2019_DC.py</p>
 <p>There is no indication printed to the console that the script is running. When the script is complete,'done' will be printed to the console.</p>
 
