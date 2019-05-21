@@ -1,5 +1,6 @@
 <h1>Overview</h1>
-<p>Each script named state_issues_year_2019_ followed by the state abbreviation creates a .csv file of the number of digitized issues available in Chronicling America, the Library of Congress’ database of historic American newspapers, for each year digitized content from state partners is available.  Please visit https://chroniclingamerica.loc.gov/about/api/  for background information about the various views of data available from Chronicling America. The combine script will combine all the files in a directory into one .csv file.</p>
+<p>Each script named state_issues_year_2019_ followed by the state abbreviation creates a .csv file of the number of digitized issues available in Chronicling America, the Library of Congress’ database of historic American newspapers, for each year digitized content from state partners is available.</p>  
+<p>Please visit https://chroniclingamerica.loc.gov/about/api/  for background information about the various views of data available from Chronicling America.</p>
 
 <h1>Output</h1>
 <b>state_issues_year_2019_DC.py or other files with state/territory abbreviations</b>
