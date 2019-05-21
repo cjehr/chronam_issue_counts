@@ -15,6 +15,7 @@ To run this script, you'll need to have Python 3 installed. You will also need a
 Save the state_issues_year_2019_ followed by the state abbreviation file to a folder where you want the results file saved.  Using the command line interface, navigate to the folder.
 
 Run the script by typing: python state_issues_year_2019_ followed by the state abbreviation
+</br>
 Ex: python state_issues_year_2019_DC.py
 
 
